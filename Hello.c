@@ -1,3 +1,4 @@
+//练习git提交
 #include <stdio.h>
 int main(void) {
     char name[50];
